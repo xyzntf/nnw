@@ -1,0 +1,50 @@
+CCTV,#genre#
+CCTV2,https://live.goodiptv.club/api/yqgd.php?id=cctv2hd
+CCTV3,https://live.goodiptv.club/api/yqgd.php?id=cctv3hd
+CCTV4,https://live.goodiptv.club/api/yqgd.php?id=cctv4
+CCTV5,https://live.goodiptv.club/api/yqgd.php?id=cctv5hd
+CCTV5+,https://live.goodiptv.club/api/yqgd.php?id=cctv5p
+CCTV6,https://live.goodiptv.club/api/yqgd.php?id=cctv6hd
+CCTV7,https://live.goodiptv.club/api/yqgd.php?id=cctv7hd
+CCTV8,https://live.goodiptv.club/api/yqgd.php?id=cctv8hd
+CCTV9,https://live.goodiptv.club/api/yqgd.php?id=cctv9hd
+CCTV10,https://live.goodiptv.club/api/yqgd.php?id=cctv10hd
+CCTV11,https://live.goodiptv.club/api/yqgd.php?id=cctv11
+CCTV12,https://live.goodiptv.club/api/yqgd.php?id=cctv12hd
+CCTV13,https://live.goodiptv.club/api/yqgd.php?id=cctv13
+CCTV15,https://live.goodiptv.club/api/yqgd.php?id=cctv15
+CCTV16,https://live.goodiptv.club/api/yqgd.php?id=cctv16hd
+CCTV17,https://live.goodiptv.club/api/yqgd.php?id=cctv17
+CCTV兵器科技,https://live.goodiptv.club/api/yqgd.php?id=bqkj
+CCTV第一剧场,https://live.goodiptv.club/api/yqgd.php?id=dyjc
+CCTV风云剧场,https://live.goodiptv.club/api/yqgd.php?id=fyjc
+CCTV风云音乐,https://live.goodiptv.club/api/yqgd.php?id=fyyy
+CCTV风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
+CCTV怀旧剧场,https://live.goodiptv.club/api/yqgd.php?id=hjjc
+CCTV世界地理,https://live.goodiptv.club/api/yqgd.php?id=sjdl
+CCTV卫生健康,https://live.goodiptv.club/api/yqgd.php?id=wsjk
+CCTV文化精品,https://live.goodiptv.club/api/yqgd.php?id=whjp
+CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+eng news,#genre#
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+港台频道,#genre#
+凤凰中文音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰资讯音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰中文HD 1080p,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文HD 1080p,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰中文HD 1080p,http://r.jdshipin.com/cCCzW
+凤凰中文HD 1080p,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰资讯HD 1080p,https://cdn6.101.qzz.io/163189/fhzx
+凤凰资讯HD 1080p,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰资讯HD 1080p,http://r.jdshipin.com/0Rp07
+凤凰中文HD 1080p,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文HD 1080p,http://rihou.cc:555/tv/[Bx]凤凰中文
+凤凰中文HD 1080p,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文HD 1080p,http://r.jdshipin.com/cCCzW
+凤凰中文HD 1080p,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰中文HD 1080p,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯HD 1080p,https://cdn6.101.qzz.io/163189/fhzx
+凤凰资讯HD 1080p,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰资讯HD 1080p,http://r.jdshipin.com/0Rp07
