@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 group-title="CCTV",CCTV2
+#EXTINF:-1 ,CCTV2
 https://live.goodiptv.club/api/yqgd.php?id=cctv2hd
-#EXTINF:-1 group-title="CCTV",CCTV3
+#EXTINF:-1 ,CCTV3
 https://live.goodiptv.club/api/yqgd.php?id=cctv3hd
-#EXTINF:-1 group-title="CCTV",CCTV4
+#EXTINF:-1 ,CCTV4
 https://live.goodiptv.club/api/yqgd.php?id=cctv4
-#EXTINF:-1 group-title="CCTV",CCTV5
+#EXTINF:-1 ,CCTV5
 https://live.goodiptv.club/api/yqgd.php?id=cctv5hd
-#EXTINF:-1 group-title="CCTV",CCTV5+
+#EXTINF:-1 ,CCTV5+
 https://live.goodiptv.club/api/yqgd.php?id=cctv5p
-#EXTINF:-1 group-title="CCTV",CCTV6
+#EXTINF:-1 ,CCTV6
 https://live.goodiptv.club/api/yqgd.php?id=cctv6hd
-#EXTINF:-1 group-title="CCTV",CCTV7
+#EXTINF:-1 ,CCTV7
 https://live.goodiptv.club/api/yqgd.php?id=cctv7hd
-#EXTINF:-1 group-title="CCTV",CCTV8
+#EXTINF:-1 ,CCTV8
 https://live.goodiptv.club/api/yqgd.php?id=cctv8hd
-#EXTINF:-1 group-title="CCTV",CCTV9
+#EXTINF:-1 ,CCTV9
 https://live.goodiptv.club/api/yqgd.php?id=cctv9hd
-#EXTINF:-1 group-title="CCTV",CCTV10
+#EXTINF:-1 ,CCTV10
 https://live.goodiptv.club/api/yqgd.php?id=cctv10hd
-#EXTINF:-1 group-title="CCTV",CCTV11
+#EXTINF:-1 ,CCTV11
 https://live.goodiptv.club/api/yqgd.php?id=cctv11
-#EXTINF:-1 group-title="CCTV",CCTV12
+#EXTINF:-1 ,CCTV12
 https://live.goodiptv.club/api/yqgd.php?id=cctv12hd
-#EXTINF:-1 group-title="CCTV",CCTV13
+#EXTINF:-1 ,CCTV13
 https://live.goodiptv.club/api/yqgd.php?id=cctv13
-#EXTINF:-1 group-title="CCTV",CCTV15
+#EXTINF:-1 ,CCTV15
 https://live.goodiptv.club/api/yqgd.php?id=cctv15
-#EXTINF:-1 group-title="CCTV",CCTV16
+#EXTINF:-1 ,CCTV16
 https://live.goodiptv.club/api/yqgd.php?id=cctv16hd
-#EXTINF:-1 group-title="CCTV",CCTV17
+#EXTINF:-1 ,CCTV17
 https://live.goodiptv.club/api/yqgd.php?id=cctv17
-#EXTINF:-1 group-title="CCTV",CCTV兵器科技
+#EXTINF:-1 ,CCTV兵器科技
 https://live.goodiptv.club/api/yqgd.php?id=bqkj
-#EXTINF:-1 group-title="CCTV",CCTV第一剧场
+#EXTINF:-1 ,CCTV第一剧场
 https://live.goodiptv.club/api/yqgd.php?id=dyjc
-#EXTINF:-1 group-title="CCTV",CCTV风云剧场
+#EXTINF:-1 ,CCTV风云剧场
 https://live.goodiptv.club/api/yqgd.php?id=fyjc
-#EXTINF:-1 group-title="CCTV",CCTV风云音乐
+#EXTINF:-1 ,CCTV风云音乐
 https://live.goodiptv.club/api/yqgd.php?id=fyyy
-#EXTINF:-1 group-title="CCTV",CCTV风云足球
+#EXTINF:-1 ,CCTV风云足球
 https://live.goodiptv.club/api/yqgd.php?id=fyzq
-#EXTINF:-1 group-title="CCTV",CCTV怀旧剧场
+#EXTINF:-1 ,CCTV怀旧剧场
 https://live.goodiptv.club/api/yqgd.php?id=hjjc
-#EXTINF:-1 group-title="CCTV",CCTV世界地理
+#EXTINF:-1 ,CCTV世界地理
 https://live.goodiptv.club/api/yqgd.php?id=sjdl
-#EXTINF:-1 group-title="CCTV",CCTV卫生健康
+#EXTINF:-1 ,CCTV卫生健康
 https://live.goodiptv.club/api/yqgd.php?id=wsjk
-#EXTINF:-1 group-title="CCTV",CCTV文化精品
+#EXTINF:-1 ,CCTV文化精品
 https://live.goodiptv.club/api/yqgd.php?id=whjp
-#EXTINF:-1 group-title="CCTV",CCTV移动
+#EXTINF:-1 ,CCTV移动
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
-#EXTINF:-1 group-title="eng news",CNA
+#EXTINF:-1 ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="eng news",FOX
+#EXTINF:-1 ,FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="eng news",美·红牛运动
+#EXTINF:-1 ,美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰中文音频
+#EXTINF:-1 ,凤凰中文音频
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰资讯音频
+#EXTINF:-1 ,凤凰资讯音频
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
+#EXTINF:-1 ,凤凰中文HD 1080p
 https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
+#EXTINF:-1 ,凤凰中文HD 1080p
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
+#EXTINF:-1 ,凤凰中文HD 1080p
 http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 group-title="港台频道",凤凰资讯HD 1080p
+#EXTINF:-1 ,凤凰资讯HD 1080p
 https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1 group-title="港台频道",凤凰资讯HD 1080p
+#EXTINF:-1 ,凤凰资讯HD 1080p
 http://r.jdshipin.com/0Rp07
