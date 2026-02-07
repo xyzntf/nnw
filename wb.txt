@@ -1,3 +1,4 @@
+CCTV,#genre#
 CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -49,7 +50,7 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-
+卫视,#genre#
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -81,7 +82,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-
+广安微,#genre#
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 安徽经济生活,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 安徽综艺体育,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
@@ -105,7 +106,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 铜陵教育科技,video://http://wxfx.tlbts.com/mag/livevideo/v1/video/wapVideoView?id=58
 黄山新闻综合,video://http://www.hsnewsnet.com/web/tvnews/
 黄山文旅,video://http://www.hsnewsnet.com/web/tvlife/
-
+福建,#genre#
 福建新闻,video://https://live.fjtv.net/xwpd/
 福建旅游,video://https://live.fjtv.net/dspd/
 福建公共,video://https://live.fjtv.net/ggpd/
@@ -120,7 +121,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 晋江电视台,video://http://www.jinjiang.tv/live/
 宁德新闻综合,video://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
 宁德文化旅游,video://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
-
+广东,#genre#
 甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml#
 兰州新闻综合,video://https://www.lzr.com.cn/folder25/folder26/
 兰州文旅,video://https://www.lzr.com.cn/folder25/folder26/folder30/
@@ -177,7 +178,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 肇庆综合,video://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=33
 云浮综合,video://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=8
 云浮文旅,video://https://static.yft.ndoe.cn/hd/ysx/#/?channelType=0&channelId=9
-
+广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
 广西都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
@@ -197,7 +198,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 来宾,video://https://share-laibin.gxlbcloud.com/fhshare/#/live_detail?contentType=4&id=9
 北海1,video://https://share.bhxww.com/app/template/displayTemplate/news/liveDetail/47/36184.html
 北海2,video://https://play-a2.quklive.com:443/live/1727311690820146.m3u8
-
+贵州,#genre#
 贵州卫视,video://https://www.gzstv.com/tv/ch01
 贵州公共,video://https://www.gzstv.com/tv/ch02
 贵州影视文艺,video://https://www.gzstv.com/tv/ch03
@@ -215,7 +216,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 黔南综合频道,video://https://movement.gzstv.com/streams/videolive/82
 黔西南综合频道,video://https://movement.gzstv.com/streams/videolive/83
 黔东南新闻综合频道,video://https://movement.gzstv.com/streams/videolive/81
-
+海南,#genre#
 海南卫视,video://http://tc.hnntv.cn/
 三沙卫视,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 海南新闻,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home
@@ -223,7 +224,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 海南文旅,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
 海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home
 海南自贸,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1&referPage=home
-
+河北,#genre#
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 河北农民,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
@@ -245,7 +246,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 沧州综合,video://https://www.czgd.tv/Article/des?infoid=32768&modelid=3
 沧州2,video://https://www.czgd.tv/Article/des?infoid=32769&modelid=3
 沧州3,video://https://www.czgd.tv/Article/des?infoid=32770&modelid=3
-
+河南,#genre#
 河南都市频道,video://https://www.hntv2.net/index.html#/pages/tv/index
 郑州教育,video://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 洛阳综合,video://http://www.lytv.com.cn/dist/phone_new_file.html
@@ -277,7 +278,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 信阳文旅,video://https://wap.xytv.cn/share/page/tvLive?tvid=3&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=39afabf7e90b4e708f7583ec223ea541
 信阳浉河,video://https://wap.xytv.cn/share/page/tvLive?tvid=5&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=e61a40bfa9414965984a6dcea76b3c60
 信阳平桥,video://https://wap.xytv.cn/share/page/tvLive?tvid=4&webProId=1&tvType=1&webTenId=1&invCode=&userName=&origin=1&webSoleId=26c2c106d4b34cbcade8fb115eb5e51e
-
+黑龙江,#genre#
 黑龙江卫视,video://https://www.hljtv.com/live/folder418/
 黑龙江文体,video://https://www.hljtv.com/live/folder423/
 黑龙江影视,video://https://www.hljtv.com/live/folder425/
@@ -288,7 +289,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 哈尔滨新闻综合,video://https://www.hrbtv.net/folder79/folder81/
 哈尔滨生活,video://https://www.hrbtv.net/folder79/folder85/
 哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
-
+湖北,#genre#
 湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
 湖北经视,video://https://news.hbtv.com.cn/app/tv/432
 湖北综合,video://https://news.hbtv.com.cn/app/tv/433
@@ -313,7 +314,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 荆州新闻综合,video://http://m-jingzhou.cjyun.org/dszb
 咸宁新闻综合,video://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=91&page=canvas&live_type=1
 咸宁经济生活,video://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
-
+湖南,#genre#
 长沙新闻,video://https://live.mgtv.com/?channelId=269
 长沙政法,video://https://live.mgtv.com/?channelId=254
 湘潭,video://http://www.hnxttv.com/live/ivideo/index.html
@@ -324,7 +325,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 娄底1,video://http://www.ldntv.cn/folder51/folder154/folder171
 郴州1,video://https://www.ngcz.tv/folder83/folder86
 郴州2,video://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
-
+吉林,#genre#
 长春综合,video://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,video://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,video://https://chinactv.com/live/1442880854423678977.html
@@ -332,7 +333,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 长春汽车,video://https://chinactv.com/live/1442881026868293634.html
 吉林市综合,video://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 四平综合,video://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
-
+江苏,#genre#
 江苏城市,video://https://live.jstv.com/?channelId=535
 江苏综艺,video://https://live.jstv.com/?channelId=556
 江苏影视,video://https://live.jstv.com/?channelId=542
@@ -367,7 +368,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
 盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
-
+江西,#genre#
 江西卫视,video://https://www.jxntv.cn/live/#/
 江西都市,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv2.m3u8
 江西经济生活,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv3.m3u8
@@ -387,7 +388,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 九江教育,video://https://www.jjntv.cn/live?id=jjfz
 宜春综合,video://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
 宜春公共,video://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
-
+宁夏,#genre#
 宁夏卫视,video://https://www.nxtv.com.cn/tv/ws/
 宁夏公共,video://https://www.nxtv.com.cn/tv/gg/
 宁夏经济,video://https://www.nxtv.com.cn/tv/jj/
@@ -397,7 +398,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 银川公共,video://https://www.qukanvideo.com/cloud/h5/1731639141671136
 银川生活,video://https://www.qukanvideo.com/cloud/h5/1731638744888001
 银川文体,video://https://www.qukanvideo.com/cloud/h5/1728443786945132
-
+青海,#genre#
 青海卫视,video://https://www.qhbtv.com/new_index/live/folder2646/
 青海经视,video://https://www.qhbtv.com/new_index/live/folder2647/
 青海都市,video://https://www.qhbtv.com/new_index/live/folder2648/
@@ -405,7 +406,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 西宁生活服务,video://https://www.xntv.tv/xnshpd
 西宁新闻广播电台,video://https://www.xntv.tv/xwgb
 西宁交通广播电台,video://https://www.xntv.tv/jtgb
-
+山东,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/
 山东齐鲁,video://https://v.iqilu.com/live/qlpd/
 山东体育,video://https://v.iqilu.com/live/typd/
@@ -444,7 +445,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 聊城电视,video://http://www.lcxw.cn/kands/
 泰安1,video://http://www.taianxinwen.com/tatv/contents/113/1.html
 泰安2,video://http://live.1545ts.net/zhibotatv2.html
-
+山西,#genre#
 山西卫视,video://https://www.sxrtv.com/tv/index.shtml
 太原新闻综合,video://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,video://https://www.dtradio.com.cn/local/folder25
@@ -470,7 +471,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 晋城,video://https://apphhplusvideo://https.sxrtv.com//a/b/a/live_wap_811846.html
 临汾,video://https://apphhplusvideo://https.sxrtv.com//a/b/a/live_wap_811841.html
 运城,video://https://apphhplusvideo://https.sxrtv.com//a/b/a/live_wap_811843.html
-
+陕西,#genre#
 陕西卫视,video://http://live.snrtv.com/star
 陕西新闻资讯,video://http://live.snrtv.com/1
 陕西都市青春,video://http://live.snrtv.com/2
@@ -488,7 +489,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 榆林公共,video://https://v.ylrb.com/2/2tsp/zb/dszb/336842.shtml
 铜川综合,video://https://www.tcsrm.cn/tvradio/tczhpd.html
 铜川公共,video://https://www.tcsrm.cn/tvradio/tcggpd.html
-
+上海,#genre#
 东方卫视,video://https://live.kankanews.com/huikan?id=1
 上海新闻综合,video://https://live.kankanews.com/huikan?id=2
 上海都市,video://https://live.kankanews.com/huikan?id=4
@@ -497,6 +498,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 五星体育,video://https://live.kankanews.com/huikan?id=10
 魔都眼,video://https://live.kankanews.com/huikan?id=11
 新纪实,video://https://live.kankanews.com/huikan?id=12
+新疆,#genre#
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆2套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆3套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
@@ -508,6 +510,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 新疆10套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆11套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+云南,#genre#
 云南卫视,video://https://www.yntv.cn/live.html
 丽江广播电视,video://https://www.lijiang.cn/live/
 红河1,video://https://www.hh.cn/ynhhzMini/site/tv
@@ -515,6 +518,7 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 临沧公共,video://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51f80ee4b04f16d0288801
 西双版纳综合,video://http://m.xsbnrtv.cn/cms-tv?column=100116
 怒江综合,video://https://www.nujiang.cn/html/video/tv/
+浙江,#genre#
 浙江卫视,video://https://www.cztv.com/liveTV/101
 浙江钱江,video://https://www.cztv.com/liveTV/102
 浙江经济生活,video://https://www.cztv.com/liveTV/103
