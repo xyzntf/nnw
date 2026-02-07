@@ -1,8 +1,22 @@
-news,#genre#
+News,#genre#
 BBC NEW,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+cbs news,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+cnn,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
 FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-jilu,#genre#
+Documentary,#genre#
+bbc earth uk,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
+BBC Earth(tw),https://t.freetv.fun/live/bbc-earth-us.m3u8
 discovery,https://t.freetv.fun/live/discovery-s.m3u8
+Discovery(TW),https://t.freetv.fun/live/discovery-s.m3u8
+Discovery Kids,https://t.freetv.fun/live/discovery-kids.m3u8
+Disney Channel(IN),https://t.freetv.fun/live/disney-channel.m3u8
+love earth,https://stream1.freetv.fun/9b6ac39cf69d7a8710b6ee03009781695b898afb49cb5f98ecea39697016c2f7.m3u8
+National Geographic,https://t.freetv.fun/live/national-geographic-wild-east.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+纪录,#genre#
+CCTV9,https://live.goodiptv.club/api/yqgd.php?id=cctv9hd
+CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND
+CCTV10,https://live.goodiptv.club/api/yqgd.php?id=cctv10hd
