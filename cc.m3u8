@@ -57,17 +57,27 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="eng news",美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰中文音频
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰资讯音频
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
 https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
+#EXTINF:-1 group-title="港台频道",凤凰中文0
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 group-title="港台频道",凤凰资讯HD 1080p
 https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1 group-title="港台频道",凤凰资讯HD 1080p
+#EXTINF:-1 group-title="港台频道",凤凰资讯0
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港台频道",凤凰中文1
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港台频道",凤凰资讯1
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="radio",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 group-title="radio",CRI环球资讯广播
+https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 group-title="radio",经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="radio",凤凰中文音频
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1 group-title="radio",凤凰资讯音频
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
