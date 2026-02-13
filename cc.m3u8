@@ -1,98 +1,110 @@
 #EXTM3U
-#EXTINF:-1 group-title="CCTC-47.106",CCTV10科教
-http://47.106.221.68:3000/624878405
-#EXTINF:-1 group-title="CCTC-47.106",CCTV11戏曲
-http://47.106.221.68:3000/667987558
-#EXTINF:-1 group-title="CCTC-47.106",CCTV12社会与法
-http://47.106.221.68:3000/673168185
-#EXTINF:-1 group-title="CCTC-47.106",CCTV13新闻
-http://47.106.221.68:3000/608807423
-#EXTINF:-1 group-title="CCTC-47.106",CCTV14少儿
-http://47.106.221.68:3000/624878440
-#EXTINF:-1 group-title="CCTC-47.106",CCTV15音乐
-http://47.106.221.68:3000/673168223
-#EXTINF:-1 group-title="CCTC-47.106",CCTV17农业农村
-http://47.106.221.68:3000/673168256
-#EXTINF:-1 group-title="CCTC-47.106",CCTV1综合
-http://47.106.221.68:3000/608807420
-#EXTINF:-1 group-title="CCTC-47.106",CCTV2财经
-http://47.106.221.68:3000/631780532
-#EXTINF:-1 group-title="CCTC-47.106",CCTV3综艺
-http://47.106.221.68:3000/624878271
-#EXTINF:-1 group-title="CCTC-47.106",CCTV4美洲
-http://47.106.221.68:3000/608807416
-#EXTINF:-1 group-title="CCTC-47.106",CCTV4欧洲
-http://47.106.221.68:3000/608807419
-#EXTINF:-1 group-title="CCTC-47.106",CCTV4中文国际
-http://47.106.221.68:3000/631780421
-#EXTINF:-1 group-title="CCTC-47.106",CCTV5+体育赛事
-http://47.106.221.68:3000/641886773
-#EXTINF:-1 group-title="CCTC-47.106",CCTV5体育
-http://47.106.221.68:3000/641886683
-#EXTINF:-1 group-title="CCTC-47.106",CCTV6电影
-http://47.106.221.68:3000/624878396
-#EXTINF:-1 group-title="CCTC-47.106",CCTV7国防军事
-http://47.106.221.68:3000/673168121
-#EXTINF:-1 group-title="CCTC-47.106",CCTV8电视剧
-http://47.106.221.68:3000/624878356
-#EXTINF:-1 group-title="CCTC-47.106",CCTV9纪录
-http://47.106.221.68:3000/673168140
-#EXTINF:-1 group-title="CCTC-47.106",CGTN
-http://47.106.221.68:3000/609017205
-#EXTINF:-1 group-title="CCTC-47.106",CGTN阿拉伯语
-http://47.106.221.68:3000/609154345
-#EXTINF:-1 group-title="CCTC-47.106",CGTN俄语
-http://47.106.221.68:3000/609006446
-#EXTINF:-1 group-title="CCTC-47.106",CGTN法语
-http://47.106.221.68:3000/609006476
-#EXTINF:-1 group-title="CCTC-47.106",CGTN外语纪录
-http://47.106.221.68:3000/609006487
-#EXTINF:-1 group-title="CCTC-47.106",CGTN西班牙语
-http://47.106.221.68:3000/609006450
-#EXTINF:-1 group-title="CCTC-47.106",发现之旅
-http://47.106.221.68:3000/624878970
-#EXTINF:-1 group-title="CCTC-47.106",老故事
-http://47.106.221.68:3000/884121956
-#EXTINF:-1 group-title="CCTC-47.106",中学生
-http://47.106.221.68:3000/708869532
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-10科教
-http://27.41.244.148:801/hls/10/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-11戏曲
-http://27.41.244.148:801/hls/11/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-12社会与法
-http://27.41.244.148:801/hls/12/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-13新闻
-http://27.41.244.148:801/hls/13/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-14少儿
-http://27.41.244.148:801/hls/14/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-15音乐
-http://27.41.244.148:801/hls/15/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-17农业
-http://27.41.244.148:801/hls/16/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-1综合
-http://27.41.244.148:801/hls/1/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-2财经
-http://27.41.244.148:801/hls/2/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-3综艺
-http://27.41.244.148:801/hls/3/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-4国际
-http://27.41.244.148:801/hls/4/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-5体育
-http://27.41.244.148:801/hls/5/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-6电影
-http://27.41.244.148:801/hls/6/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-7军事
-http://27.41.244.148:801/hls/7/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-8电视
-http://27.41.244.148:801/hls/8/index.m3u8
-#EXTINF:-1 group-title="CCTV-27.41",CCTV-9记录
-http://27.41.244.148:801/hls/9/index.m3u8
-#EXTINF:-1 group-title="eng news",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="eng news",FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="eng news",美·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="卫视-27.41",风云足球
+http://27.41.244.148:801/hls/906/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",重庆卫视
+http://27.41.244.148:801/hls/59/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",浙江卫视
+http://27.41.244.148:801/hls/58/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",新疆卫视
+http://27.41.244.148:801/hls/57/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",西藏卫视
+http://27.41.244.148:801/hls/56/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",天津卫视
+http://27.41.244.148:801/hls/55/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",四川卫视
+http://27.41.244.148:801/hls/54/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",陕西卫视
+http://27.41.244.148:801/hls/53/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",山西卫视
+http://27.41.244.148:801/hls/52/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",山东卫视
+http://27.41.244.148:801/hls/51/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",青海卫视
+http://27.41.244.148:801/hls/49/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",宁夏卫视
+http://27.41.244.148:801/hls/48/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",内蒙古卫视
+http://27.41.244.148:801/hls/47/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",江西卫视
+http://27.41.244.148:801/hls/43/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",江苏卫视
+http://27.41.244.148:801/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",吉林卫视
+http://27.41.244.148:801/hls/40/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",黑龙江卫视
+http://27.41.244.148:801/hls/39/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",河南卫视
+http://27.41.244.148:801/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",河北卫视
+http://27.41.244.148:801/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",海南卫视
+http://27.41.244.148:801/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",贵州卫视
+http://27.41.244.148:801/hls/35/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",广西卫视
+http://27.41.244.148:801/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",甘肃卫视
+http://27.41.244.148:801/hls/33/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",东南卫视
+http://27.41.244.148:801/hls/32/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",安徽卫视
+http://27.41.244.148:801/hls/29/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",北京卫视
+http://27.41.244.148:801/hls/28/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",湖南卫视
+http://27.41.244.148:801/hls/27/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",广东珠江
+http://27.41.244.148:801/hls/25/index.m3u8
+#EXTINF:-1 group-title="卫视-27.41",广东体育
+http://27.41.244.148:801/hls/204/index.m3u8
+#EXTINF:-1 group-title="港台频道",TVBPlus
+https://my5353.com/9017
+#EXTINF:-1 group-title="港台频道",无线新闻台
+https://my5353.com/9016
+#EXTINF:-1 group-title="港台频道",TVB翡翠台
+https://my5353.com/9015
+#EXTINF:-1 group-title="港台频道",凤凰香港台
+https://my5353.com/9014
+#EXTINF:-1 group-title="港台频道",凤凰资讯台
+https://my5353.com/9013
+#EXTINF:-1 group-title="港台频道",凤凰中文台
+https://my5353.com/9012
+#EXTINF:-1 group-title="港台频道",黄金翡翠台
+https://my5353.com/9010
+#EXTINF:-1 group-title="港台频道",凤凰中文1
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港台频道",凤凰资讯1
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港台频道",凤凰资讯HD 1080p
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 group-title="港台频道",动物星球(台湾)
+http://rihou.cc:555/tv/hktv%2Ftwxzt
+#EXTINF:-1 group-title="港台频道",民视综艺台
+http://rihou.cc:555/tv/hktv%2Ftw0818
+#EXTINF:-1 group-title="港台频道",东森财经新闻
+http://rihou.cc:555/tv/hktv%2Ftw0817
+#EXTINF:-1 group-title="港台频道",寰宇新闻台湾
+http://rihou.cc:555/tv/hktv%2Ftw0816
+#EXTINF:-1 group-title="港台频道",寰宇新闻台
+http://rihou.cc:555/tv/hktv%2Ftw0815
+#EXTINF:-1 group-title="港台频道",东森新闻台
+http://rihou.cc:555/tv/hktv%2Ftw0814
+#EXTINF:-1 group-title="港台频道",中视新闻台
+http://rihou.cc:555/tv/hktv%2Ftw0813
+#EXTINF:-1 group-title="港台频道",TVBS HD
+http://rihou.cc:555/tv/hktv%2Ftw0812
+#EXTINF:-1 group-title="港台频道",中天新闻台
+http://rihou.cc:555/tv/hktv%2Ftw0811
+#EXTINF:-1 group-title="港台频道",凤凰中文0
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="港台频道",凤凰资讯0
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://27.41.244.148:801/hls/205/index.m3u8
 #EXTINF:-1 group-title="radio",CRI环球资讯广播
 https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 group-title="radio",法国国际广播电台
@@ -103,109 +115,41 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 group-title="radio",经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 group-title="港台频道",TVBPlus
-https://my5353.com/9017
-#EXTINF:-1 group-title="港台频道",TVBS HD
-http://rihou.cc:555/tv/hktv%2Ftw0812
-#EXTINF:-1 group-title="港台频道",TVB翡翠台
-https://my5353.com/9015
-#EXTINF:-1 group-title="港台频道",东森财经新闻
-http://rihou.cc:555/tv/hktv%2Ftw0817
-#EXTINF:-1 group-title="港台频道",东森新闻台
-http://rihou.cc:555/tv/hktv%2Ftw0814
-#EXTINF:-1 group-title="港台频道",动物星球(台湾)
-http://rihou.cc:555/tv/hktv%2Ftwxzt
-#EXTINF:-1 group-title="港台频道",凤凰香港台
-https://my5353.com/9014
-#EXTINF:-1 group-title="港台频道",凤凰中文
-http://27.41.244.148:801/hls/205/index.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰中文0
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 group-title="港台频道",凤凰中文1
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
-https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 group-title="港台频道",凤凰中文HD 1080p
-http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 group-title="港台频道",凤凰中文台
-https://my5353.com/9012
-#EXTINF:-1 group-title="港台频道",凤凰资讯0
-http://r.jdshipin.com/0Rp07
-#EXTINF:-1 group-title="港台频道",凤凰资讯1
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="港台频道",凤凰资讯HD 1080p
-https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1 group-title="港台频道",凤凰资讯台
-https://my5353.com/9013
-#EXTINF:-1 group-title="港台频道",寰宇新闻台
-http://rihou.cc:555/tv/hktv%2Ftw0815
-#EXTINF:-1 group-title="港台频道",寰宇新闻台湾
-http://rihou.cc:555/tv/hktv%2Ftw0816
-#EXTINF:-1 group-title="港台频道",黄金翡翠台
-https://my5353.com/9010
-#EXTINF:-1 group-title="港台频道",民视综艺台
-http://rihou.cc:555/tv/hktv%2Ftw0818
-#EXTINF:-1 group-title="港台频道",无线新闻台
-https://my5353.com/9016
-#EXTINF:-1 group-title="港台频道",中视新闻台
-http://rihou.cc:555/tv/hktv%2Ftw0813
-#EXTINF:-1 group-title="港台频道",中天新闻台
-http://rihou.cc:555/tv/hktv%2Ftw0811
-#EXTINF:-1 group-title="卫视-27.41",安徽卫视
-http://27.41.244.148:801/hls/29/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",北京卫视
-http://27.41.244.148:801/hls/28/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",东南卫视
-http://27.41.244.148:801/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",风云足球
-http://27.41.244.148:801/hls/906/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",甘肃卫视
-http://27.41.244.148:801/hls/33/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",广东体育
-http://27.41.244.148:801/hls/204/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",广东珠江
-http://27.41.244.148:801/hls/25/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",广西卫视
-http://27.41.244.148:801/hls/34/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",贵州卫视
-http://27.41.244.148:801/hls/35/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",海南卫视
-http://27.41.244.148:801/hls/36/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",河北卫视
-http://27.41.244.148:801/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",河南卫视
-http://27.41.244.148:801/hls/38/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",黑龙江卫视
-http://27.41.244.148:801/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",湖南卫视
-http://27.41.244.148:801/hls/27/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",吉林卫视
-http://27.41.244.148:801/hls/40/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",江苏卫视
-http://27.41.244.148:801/hls/42/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",江西卫视
-http://27.41.244.148:801/hls/43/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",内蒙古卫视
-http://27.41.244.148:801/hls/47/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",宁夏卫视
-http://27.41.244.148:801/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",青海卫视
-http://27.41.244.148:801/hls/49/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",山东卫视
-http://27.41.244.148:801/hls/51/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",山西卫视
-http://27.41.244.148:801/hls/52/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",陕西卫视
-http://27.41.244.148:801/hls/53/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",四川卫视
-http://27.41.244.148:801/hls/54/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",天津卫视
-http://27.41.244.148:801/hls/55/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",西藏卫视
-http://27.41.244.148:801/hls/56/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",新疆卫视
-http://27.41.244.148:801/hls/57/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",浙江卫视
-http://27.41.244.148:801/hls/58/index.m3u8
-#EXTINF:-1 group-title="卫视-27.41",重庆卫视
-http://27.41.244.148:801/hls/59/index.m3u8
+#EXTINF:-1 group-title="eng news",FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="eng news",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="eng news",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-9记录
+http://27.41.244.148:801/hls/9/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-8电视
+http://27.41.244.148:801/hls/8/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-7军事
+http://27.41.244.148:801/hls/7/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-6电影
+http://27.41.244.148:801/hls/6/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-5体育
+http://27.41.244.148:801/hls/5/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-4国际
+http://27.41.244.148:801/hls/4/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-3综艺
+http://27.41.244.148:801/hls/3/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-2财经
+http://27.41.244.148:801/hls/2/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-17农业
+http://27.41.244.148:801/hls/16/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-15音乐
+http://27.41.244.148:801/hls/15/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-14少儿
+http://27.41.244.148:801/hls/14/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-13新闻
+http://27.41.244.148:801/hls/13/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-12社会与法
+http://27.41.244.148:801/hls/12/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-11戏曲
+http://27.41.244.148:801/hls/11/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-10科教
+http://27.41.244.148:801/hls/10/index.m3u8
+#EXTINF:-1 group-title="CCTV-27.41",CCTV-1综合
+http://27.41.244.148:801/hls/1/index.m3u8
