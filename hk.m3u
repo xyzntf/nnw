@@ -23,6 +23,18 @@ https://cdn6.101.qzz.io/163189/fhzw
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 group-title="港台",凤凰中文C
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文115
+http://115.44.140.170:18180/TV00000000000000000008@HHZT
+#EXTINF:-1 group-title="港台",凤凰中文
+https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港台",凤凰中文
+http://j.s.bkpcp.top/js/fhzw
+#EXTINF:-1 group-title="港台",凤凰中文
+http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+#EXTINF:-1 group-title="港台",凤凰中文
+http://xtvantsc.xyz/fhx.php?id=2
+#EXTINF:-1 group-title="港台",凤凰中文
+http://feilong123.vip/409990236/hktv.php?id=2
 #EXTINF:-1 group-title="港台",凤凰咨询
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="港台",凤凰资讯
@@ -39,3 +51,4 @@ https://cdn6.101.qzz.io/163189/fhzx
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 #EXTINF:-1 group-title="港台",无线新闻
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+
