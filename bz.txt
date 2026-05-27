@@ -846,6 +846,9 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 凤凰卫视中文台,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰卫视资讯台,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰卫视香港台,http://115.44.140.170:18180/TV00000000000000000024@HHZT
+凤凰中文凤凰秀,http://PLTV/ku9/js/fhshow.js?id=fhzw$凤凰秀JS
+凤凰资讯凤凰秀,http://PLTV/ku9/js/fhshow.js?id=fhzx$凤凰秀JS
+凤凰香港凤凰秀,http://PLTV/ku9/js/fhshow.js?id=fhhk$凤凰秀JS
 
 台湾,#genre#
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
