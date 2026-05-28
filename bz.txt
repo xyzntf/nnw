@@ -1,3 +1,12 @@
+凤凰网,#genre#
+凤凰中文,http://PLTV/ku9/js/fhshow.js?id=fhzw$凤凰秀JS
+凤凰资讯,http://PLTV/ku9/js/fhshow.js?id=fhzx$凤凰秀JS
+凤凰香港,http://PLTV/ku9/js/fhshow.js?id=fhhk$凤凰秀JS
+
+香港-浙移,#genre#
+凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+
 浙江-浙移,#genre#
 浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/396328936.smil/index.m3u8?fmt=ts2hls
 杭州导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
@@ -246,9 +255,7 @@ CETV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/48252
 CETV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/749245473.smil/index.m3u8?fmt=ts2hls
 CETV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/index.m3u8?fmt=ts2hls
 山东教育卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236210/index.m3u8
-香港-浙移,#genre#
-凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
-凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+
 卫视-浙移,#genre#
 安徽卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
 安徽卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/42329873.smil/index.m3u8?fmt=ts2hls
@@ -774,8 +781,6 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 兵团卫视,http://go.bkpcp.top/mg/btws 
 黑龙江视,http://go.bkpcp.top/mg/hljws
 凤凰,#genre#
-凤凰中文zj,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
-凤凰资讯zj,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰中文163189,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯163189,http://cdn6.163189.xyz/163189/fhzx
 凤凰中文jdshipin,http://r.jdshipin.com/cCCzW
@@ -846,9 +851,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 凤凰卫视中文台,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰卫视资讯台,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰卫视香港台,http://115.44.140.170:18180/TV00000000000000000024@HHZT
-凤凰中文凤凰秀,http://PLTV/ku9/js/fhshow.js?id=fhzw$凤凰秀JS
-凤凰资讯凤凰秀,http://PLTV/ku9/js/fhshow.js?id=fhzx$凤凰秀JS
-凤凰香港凤凰秀,http://PLTV/ku9/js/fhshow.js?id=fhhk$凤凰秀JS
+
 
 台湾,#genre#
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
