@@ -21,10 +21,6 @@ http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 
 #EXTINF:-1 group-title="电视",凤凰中文
-http://j.s.bkpcp.top/js/fhzw
-#EXTINF:-1 group-title="电视",凤凰资讯
-http://j.s.bkpcp.top/js/fhzx
-#EXTINF:-1 group-title="电视",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="电视",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
@@ -36,6 +32,10 @@ http://xtvantsc.xyz/fhx.php?id=1
 http://218.206.193.218:8888/hls/67/index.m3u8
 #EXTINF:-1 group-title="电视",凤凰资讯
 http://218.206.193.218:8888/hls/66/index.m3u8
+#EXTINF:-1 group-title="电视",凤凰中文
+http://j.s.bkpcp.top/js/fhzw
+#EXTINF:-1 group-title="电视",凤凰资讯
+http://j.s.bkpcp.top/js/fhzx
 
 #EXTINF:-1 group-title="电视",CCTV1
 http://183.129.255.66:8480/hls/1/index.m3u8
@@ -49,8 +49,7 @@ http://183.129.255.66:8480/hls/11/index.m3u8
 http://183.129.255.66:8480/hls/14/index.m3u8
 #EXTINF:-1 group-title="news",BBC NEW
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="news",BBC NEW
-http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/545/index.m3u8
+
 #EXTINF:-1 group-title="news",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 group-title="news",cbs news
@@ -59,10 +58,8 @@ https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="news",cnn
 https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
-#EXTINF:-1 group-title="news",FOX
+#EXTINF:-1 group-title="news",FOX news
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="news",FOX
-http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/19147/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",bbc earth
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
@@ -76,44 +73,16 @@ https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/pla
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 group-title="Documentary",history usa east
 http://108.181.20.255:27347/livehttpplay?channel_id=23105
-#EXTINF:-1 group-title="Documentary",National Geographic
-https://t.freetv.fun/live/national-geographic-wild-east.m3u8
-
-#EXTINF:-1 group-title="Documentary",National Geographic
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3750.ts
-
 #EXTINF:-1 group-title="Documentary",discover china
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",National Geographic
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/14001/index.m3u8 
-#EXTINF:-1 group-title="Documentary",Geographic Wild
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/133/index.m3u8
-#EXTINF:-1 group-title="Documentary",Geographic Wild
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/2067/index.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery Channel
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/140/index.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery Channel
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/227/index.m3u8
-#EXTINF:-1 group-title="Documentary",BBC World News UK
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/545/index.m3u8
-#EXTINF:-1 group-title="Documentary",BBC Earth HD PL
-http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/6100/index.m3u8
 #EXTINF:-1 group-title="Documentary",美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="纪录",CCTV9
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CENDGuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND
-#EXTINF:-1 group-title="纪录",RT News（英语国际）
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="纪录",RT Documentary（英语纪录）
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="纪录",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 group-title="纪录",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 group-title="纪录",CCTV9
-http://183.129.255.66:8480/hls/10/index.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
 #EXTINF:-1 group-title="纪录",CCTV10
-http://183.129.255.66:8480/hls/11/index.m3u8
+http://222.94.115.176:52343/624878405
 #EXTINF:-1 group-title="纪录",CCTV10
-http://101.35.240.114:88/live.php?id=CCTV10
+http://go.bkpcp.top/mg/cctv10
