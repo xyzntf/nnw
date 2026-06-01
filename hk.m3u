@@ -78,12 +78,10 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 http://108.181.20.255:27347/livehttpplay?channel_id=23105
 #EXTINF:-1 group-title="Documentary",National Geographic
 https://t.freetv.fun/live/national-geographic-wild-east.m3u8
-#EXTINF:-1 group-title="Documentary",美·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 #EXTINF:-1 group-title="Documentary",National Geographic
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3750.ts
-#EXTINF:-1 group-title="Documentary",nickcoon
-http://realsport.scalecdn.co:8080/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3674
+
 #EXTINF:-1 group-title="Documentary",discover china
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic
@@ -100,6 +98,8 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/227/index.m3u8
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/545/index.m3u8
 #EXTINF:-1 group-title="Documentary",BBC Earth HD PL
 http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/6100/index.m3u8
+#EXTINF:-1 group-title="Documentary",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="纪录",CCTV9
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CENDGuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND
