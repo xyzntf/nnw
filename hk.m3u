@@ -11,13 +11,13 @@ https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 #EXTINF:-1 group-title="电视音频",CCTV-13 新闻
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 
-#EXTINF:-1 group-title="电视音频",法国国际广播电台
+#EXTINF:-1 group-title="广播",法国国际广播电台
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1 group-title="广播",CRI环球资讯广播
 https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-#EXTINF:-1 group-title="综合广播",CNR经济之声
+#EXTINF:-1 group-title="广播",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 group-title="综合广播",CNR文艺之声
+#EXTINF:-1 group-title="广播",CNR文艺之声
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 
 #EXTINF:-1 group-title="电视",凤凰中文
