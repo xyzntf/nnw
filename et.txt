@@ -25,3 +25,4 @@ CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?G
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/1/index.m3u8?fmt=ts2hls
 探索纪实,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
+探索星球,http://61.221.215.25:8800/hls/57/index.m3u8
