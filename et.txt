@@ -23,3 +23,5 @@ CCTV10,http://222.94.115.176:52343/624878405
 CCTV10,http://go.bkpcp.top/mg/cctv10
 CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/1/index.m3u8?fmt=ts2hls
+探索纪实,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
