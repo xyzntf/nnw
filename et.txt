@@ -2,6 +2,7 @@ News,#genre#
 BBC NEW,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC NEW,http://d029dcec.kazmazpaz.ru/iptv/3K5Z3VE8M7N89U/545/index.m3u8
 BBC World News UK,http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/545/index.m3u8
+BBC one uk,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 cbs news,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -15,7 +16,7 @@ Love nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-loven
 Love nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 History east usa,http://108.181.20.255:27347/livehttpplay?channel_id=23105
 discovering china,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 
 纪录,#genre#
 CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CENDGuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND
@@ -29,5 +30,6 @@ CGTN,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/1/index
 
 体育,#genre#
 Bein sports 5,http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-BBC one uk,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
-
+t sports hd,http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
+Now tv,http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
