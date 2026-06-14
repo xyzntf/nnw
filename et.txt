@@ -16,6 +16,7 @@ Love nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-loven
 Love nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 History east usa,http://108.181.20.255:27347/livehttpplay?channel_id=23105
 discovering china,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+discovery,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 
 纪录,#genre#
