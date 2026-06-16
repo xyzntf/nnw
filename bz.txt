@@ -787,6 +787,8 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 兵团卫视,http://go.bkpcp.top/mg/btws 
 黑龙江视,http://go.bkpcp.top/mg/hljws
 凤凰,#genre#
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$LR1
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$LR1
 
