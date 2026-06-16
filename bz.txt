@@ -788,13 +788,13 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 黑龙江视,http://go.bkpcp.top/mg/hljws
 
 凤凰,#genre#
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$LR1
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 
-凤凰中文,http://r.jdshipin.com/cCCzW$LR2
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$LR3
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 
