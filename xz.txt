@@ -1,0 +1,18 @@
+记录,#genre# 
+discovery,http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
+探索频道,http://151.80.18.177:86/Discovery_HD/index.m3u8
+国家地理,http://151.80.18.177:86/National_Geo_HD/index.m3u8
+国家地理,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
+National Geographic,http://212.102.60.231:80/National_Geographic/index.m3u8
+历史频道,http://151.80.18.177:86/Histoire/index.m3u8
+
+RMC探索,http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+
+新闻,#genre# 
+英国BBC新闻,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd 
+英国BBC新闻 美国版,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298 
+天空新闻,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8 
+美国CNN,http://czstream.com:826/LouCarey/KYsHfE1YLU/1347 
+美国CNN,http://hestiahestia.quicksytes.com:2096/live/os9801/2587639104/814509.m3u8
+卡塔尔Al Jazeera 英文,https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8 
