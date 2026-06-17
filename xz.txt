@@ -6,7 +6,11 @@ discovery,http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 National Geographic,http://212.102.60.231:80/National_Geographic/index.m3u8
 历史频道,http://151.80.18.177:86/Histoire/index.m3u8
-
+Animal lPlanet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8 
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8 
+Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8 
+Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8 
+Love Nature 台湾,http://116.241.240.176:5050/4gtv-live208/index.m3u8 
 RMC探索,http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
 
 新闻,#genre# 
