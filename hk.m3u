@@ -21,8 +21,32 @@ http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 #EXTINF:-1 group-title="广播",CRI华语环球广播
 http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="广播",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 group-title="广播",CNR经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="广播",CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+
 #EXTINF:-1 group-title="广播",CRI英语环球广播
 http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="广播",NPR News
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 group-title="广播",CNA亚洲新闻
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="广播",LBC UK
+https://ice-sov.musicradio.com/LBCUKMP3
+
+#EXTINF:-1 group-title="广播",北京交通广播
+http://ls.qingting.fm/live/336.m3u8
+#EXTINF:-1 group-title="广播",北京新闻广播
+http://ls.qingting.fm/live/339.m3u8
+#EXTINF:-1 group-title="广播",北京文艺广播
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1 group-title="广播",北京音乐广播
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1 group-title="广播",北京城市广播
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 
 #EXTINF:-1 group-title="电视",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
