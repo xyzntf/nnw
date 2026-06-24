@@ -20,6 +20,23 @@ http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 group-title="广播",CNR文艺之声
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
 
+#EXTINF:-1 group-title="广播",BBC Radio 4 Extra
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836552.ts
+#EXTINF:-1 group-title="广播",BBC Radio 6 Music
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836553.ts
+#EXTINF:-1 group-title="广播",BBC Radio 1
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836554.ts
+#EXTINF:-1 group-title="广播",BBC Radio 2
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836555.ts
+#EXTINF:-1 group-title="广播",BBC Radio 3
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836556.ts
+#EXTINF:-1 group-title="广播",BBC Radio 4
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836557.ts
+#EXTINF:-1 group-title="广播",BBC Radio 5L
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836558.ts
+#EXTINF:-1 group-title="广播",BBC Radio Scotland
+http://yz.gl:80/live/mVqMaPNwAO/Y8RC7kk0wa/1836548.ts
+
 #EXTINF:-1 group-title="电视",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="电视",凤凰资讯
