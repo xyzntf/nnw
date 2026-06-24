@@ -19,33 +19,10 @@ https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 group-title="广播",CNR文艺之声
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
-
-#EXTINF:-1 group-title="广播",BBC World Service
-https://lsn.lv/bbcradio.m3u8?station=bbc_world_service%22&bitrate=320000%22
-
-
-#EXTINF:-1 group-title="广播",BBC Radio 1
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio Dance
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_dance%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio 2
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio 3
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio 4
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio 4 Extra
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_four_extra%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio 5L
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio 6 Music
-https://lsn.lv/bbcradio.m3u8?station=bbc_6music%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio Scotland
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_scotland_fm%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio Oxford
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_oxford%22&bitrate=320000%22
-#EXTINF:-1 group-title="广播",BBC Radio Asian Network
-https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network%22&bitrate=320000%22
+#EXTINF:-1 group-title="广播",CRI华语环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="广播",CRI英语环球广播
+http://sk.cri.cn/am846.m3u8
 
 #EXTINF:-1 group-title="电视",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
