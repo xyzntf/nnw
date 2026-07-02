@@ -960,7 +960,7 @@ CCTV-5+HD,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 邵氏喜剧电影,http://173.208.212.130:8181/1080p/ssxj.m3u8
 邵氏张彻专场,http://173.208.212.130:8181/1080p/sszc.m3u8
 
-FOX体育台https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+FOX体育台,https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
 直播中国,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
